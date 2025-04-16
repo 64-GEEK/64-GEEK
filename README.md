@@ -68,3 +68,4 @@ Built with Django and full MVT architecture. User-friendly library system with f
 ---
 
 _“Build fast, break nothing.”_
+ 
