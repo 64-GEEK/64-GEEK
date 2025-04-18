@@ -9,7 +9,7 @@
 
 ### 🚀 About Me
 - 🎓 Third-year CS student at Cairo University.
-- 💻 AI Trainer @ **Scale AI**, former Prompt Engineer @ **Outlier AI**
+- 💻 AI Trainer @ **Scale AI**.
 - 🧠 ECPC Contestant & Backend Developer with a passion for scalable systems.
 - 🛠️ Languages & Frameworks: C++, C#, Java, Python, SQL, Spring Boot, .NET, Django
 - 🏆 HERE Cairo Hackathon 2024 Participant
